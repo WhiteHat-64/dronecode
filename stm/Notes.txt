@@ -1,0 +1,11 @@
+Clock configuration:
+====================
+
+Oscillator frquency input to STM = 8MHz
+CPU input clock frequency = 40MHz
+System timer input frequency = 5MHz
+
+
+
+system Cycle time = 10ms
+
